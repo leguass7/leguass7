@@ -4,6 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leguass7&langs_count=6&layout=compact&theme=default)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
