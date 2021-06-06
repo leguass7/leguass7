@@ -1,4 +1,8 @@
 ### Hi there 👋
+![dev](https://img.shields.io/badge/fullstack-dev-brightgreen)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **leguass7/leguass7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
