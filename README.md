@@ -32,6 +32,7 @@ Atualmente estou muito empolgado com o universo de facilidades do [NodeJs](https
 ![Delphi](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=Delphi&message=medium&logo=Delphi)
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=b99e55&label=.NET&message=low&logo=.NET)
 
+![Git](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Git&message=high&logo=Git)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Visual%20Studio%20Code&message=high&logo=Visual%20Studio%20Code)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Docker&message=high&logo=Docker)
 ![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Insomnia&message=high&logo=Insomnia) 
