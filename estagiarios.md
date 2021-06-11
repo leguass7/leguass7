@@ -1,6 +1,15 @@
+# Programa de treinamento de estagiários
+
 Fortaleza 10 de junho de 2021
 
-Lista de tarefas e habilidades desenvolvidas durante o período de estágio dos alunos do colégio __ 
+Relatório resumido das tarefas e habilidades desenvolvidas pelos alunos durante o período de estágio.
+
+Escola: **EEEP Joaquim Antônio Albano**
+
+Professor/Coordenador: **Davidson Alves**
+
+Link para o registro de horas estagiadas: [davidsonalves](https://davidsonalves.github.io/hestagiadas.html)
+
 Período: de ___ a ___, totalizando __ horas.
 
 ## Resumo das atividades
@@ -8,12 +17,13 @@ Período: de ___ a ___, totalizando __ horas.
 ### Ambiente de desenvolvimento
 - [x] Configuração de variáveis de ambiente e `.env`
 - [x] Instalação e configuração de softwares e ferramentas de ambiente de desenvolvimento
+  - [x] [NodeJs](https://nodejs.org/)
 - [x] Visual Studio Code [VSCode](https://code.visualstudio.com)
   - [x] Elaboração de `snippets` personalizados
   - [x] Instalação e configuração de extensões
 - [x] Configuração e *padronização de código* utilizando `eslint` e `prettier`
   - [x] Personalização. Criar e modificar regras para a padronização de código
-- [x] Configuração de ferramenta para controle de versão de código com `git` e `git flow`
+- [x] Configuração de ferramenta para controle de versão de código com `git`/`git flow`
 - [x] Instalação, configuração e utilização do `docker` e `docker-compose` [Docker](https://www.docker.com/)
   - [x] Criação de containers
   - [x] Configuração de volumes
@@ -21,10 +31,15 @@ Período: de ___ a ___, totalizando __ horas.
 - [x] Gerenciador de pacotes `yarn` e `npm`
   - [x] Inciar e configurar novo projeto
   - [x] Atualização e manutenção de dependencias
-  - [x] Inciar e configurar `monorepo`
+  - [x] Inciar e configurar estrutura de projeto `monorepo`
+    - [x] `build` / `deploy` de projeto monorepo
   - [x] Elaboração de scripts personalizados
   - [x] Configuração e utilização de `style guide`
   - [x] Configuração e realização de testes `UnitTest` utilizando [JEST](https://jestjs.io/)
+    - [x] Automatização de testes
+    - [x] Integração contínua `ci`, `lint-staged`, `husky` e `commitlint`
+    - [x] Teste de cobertura de código (`coverage`) 
+    - [x] Configuração de **Actions do Github**
 - [x] Configuração de projeto para utilização de `typescript`
 - [x] `bash` para automatização de `build` e `deploy`
 
@@ -32,11 +47,45 @@ Período: de ___ a ___, totalizando __ horas.
 - [x] Prática com uso avançado de `JavaScript`, `ECMAScript`
 - [x] Prática com uso avançado de `TypeScript`
 - [x] Reescrita de códigos *JS* para *TS* e vice-versa
-
-### Frontend
-
-- [ ] ...
+- [x] Criação, manutenção e versionamento de `packages` para `npm` [NPM](https://www.npmjs.com/)
 
 ### Backend
+- [x] Desnvolvimento de servidor **HTTP** com `express`
+- [x] Elaboração de projeto utilizando o coneito de **RESTful API**
+- [x] Desacoplamento de código e estrutura de classes
+- [x] Desenvolvimento de servidor HTTP em estrutura **monorepo** `+ build/deploy`
+- [x] Planejamento e estrutura de rotas publicas e privadas
+  - [x] **CRUD** completo
+  - [x] Middlewares de tranformação de `request` e `response`
+  - [x] Middlewares de upload
+  - [x] Middlewares de autenticação com **JWT** (Json Web Token)
+  - [x] Proteção de rotas por nível de acesso dos usuários
+  - [x] Elaboração de rotas estáticas (servidor de arquivos estático)
+- [x] Envio de e-mail utilizando `sendgrid` e `nodemailer`
+  - [x] Personalização e elaboração de modelos *(template)* de e-mails utilizando arquivos `*.hbs` (handlebars)
+  - [ ] ...
+  
 
+### Frontend
+- [x] [ReactJs](https://pt-br.reactjs.org/) [Facebook/react](https://github.com/facebook/react)
+  - [x] Desenvolvimento de projeto utilizando `react`
+  - [x] Estrutura de arquivos do projeto
+  - [x] Criação e estilização de compoenets `inline` e `styled-compoents`
+  - [x] Criação de biblioteca de components personalizadas
+  - [x] Utilização de componentes de terceiros
+  - [x] Gerenciamento de estados
+  - [x] Gerenciamento de estados em provedor contexto `createContext`/`Context.Provider`
+  - [x] Estrutura de layouts
+  - [x] Estrutura de rotas
+  - [x] Upload de imagens/arquivos
+  - [x] Manipulação de imagens no frontend
+  - [x] [NextJs](https://nextjs.org/) [Vercel/next.js](https://github.com/vercel/next.js)
+    - [x] Conceito de SSR (Server Side Rendering)
+    - [x] Desenvolvimento de projeto utilizando `next`
+    - [x] Desenvolvimento de projeto `next` com servidor *HTTP personalizado*
+    - [x] Elaboração de projeto **monorepo** utilizando `next`
+- [ ] Aplicação de conceitos de SEO
+  - [ ] Dados estruturados [Schema.org](https://schema.org/) em projetos React
 - [ ] ...
+
+
