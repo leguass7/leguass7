@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Leandro&color=f8efd4&style=for-the-badge&logo=GitHub"> <img src="https://img.shields.io/static/v1?label=Fullstack&message=DEV&color=31ac59&style=for-the-badge">
 
 Sou desenvolvedor na **Avatar Soluções Digitais**.<br/>
-Atualmente estou muito empolgado com o universo de facilidades do [NodeJs](https://nodejs.org).<br/><br/>
+Atualmente estou muito animado com o universo de facilidades do [NodeJs](https://nodejs.org).<br/><br/>
 <hr>
 
 ### Minhas linguagens, tecnologias e ferramentas (mais usadas)
