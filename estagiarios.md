@@ -47,7 +47,8 @@ Período: de ___ a ___, totalizando __ horas.
 - [x] Prática com uso avançado de `JavaScript`, `ECMAScript`
 - [x] Prática com uso avançado de `TypeScript`
 - [x] Reescrita de códigos *JS* para *TS* e vice-versa
-- [x] Criação, manutenção e versionamento de `packages` para `npm` [NPM](https://www.npmjs.com/)
+- [x] Publicação de pacotes no [NPM](https://www.npmjs.com/)
+- [x] Criação, compilação, manutenção e versionamento de `packages` para `npm`
 
 ### Backend
 - [x] Desnvolvimento de servidor **HTTP** com `express`
@@ -63,7 +64,12 @@ Período: de ___ a ___, totalizando __ horas.
   - [x] Elaboração de rotas estáticas (servidor de arquivos estático)
 - [x] Envio de e-mail utilizando `sendgrid` e `nodemailer`
   - [x] Personalização e elaboração de modelos *(template)* de e-mails utilizando arquivos `*.hbs` (handlebars)
-  - [ ] ...
+- [x] Consumindo banco de dados relacional
+  - [x] Configuração de `sequelize` e `prisma`
+  - [x] Personalização de métodos da ORM
+  - [x] Construir estrutura de relacionamentos entre tabelas
+- [x] Elaboração de biblioteca personalizada para acesso a dados
+- [ ] ...
   
 
 ### Frontend
@@ -79,13 +85,17 @@ Período: de ___ a ___, totalizando __ horas.
   - [x] Estrutura de rotas
   - [x] Upload de imagens/arquivos
   - [x] Manipulação de imagens no frontend
+  - [x] Implementação, gerenciamento e persistência de dados com `redux`, `persists` e `sagas`
   - [x] [NextJs](https://nextjs.org/) [Vercel/next.js](https://github.com/vercel/next.js)
     - [x] Conceito de SSR (Server Side Rendering)
     - [x] Desenvolvimento de projeto utilizando `next`
     - [x] Desenvolvimento de projeto `next` com servidor *HTTP personalizado*
     - [x] Elaboração de projeto **monorepo** utilizando `next`
+- [x] Consumo de API interna e externa utilizando `axios`
+- [ ] Implementar funcionalidade do PWA (Progressive Web App) em aplicações React
 - [ ] Aplicação de conceitos de SEO
   - [ ] Dados estruturados [Schema.org](https://schema.org/) em projetos React
+- [ ] Implementar disparo de conversões em campanhas do [Google Ads](https://ads.google.com/)
 - [ ] ...
 
 
