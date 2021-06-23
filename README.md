@@ -3,7 +3,12 @@
 ### Olá, seja bem vindo 👋
 <img src="https://img.shields.io/static/v1?label=Overview&message=Leandro&color=f8efd4&style=for-the-badge&logo=GitHub"> <img src="https://img.shields.io/static/v1?label=Fullstack&message=DEV&color=31ac59&style=for-the-badge">
 
-Sou desenvolvedor na **Avatar Soluções Digitais**.<br/>
+Desenvolvedor na **Avatar Soluções Digitais**.<br/>
+
+Sou apaixonado por novas tecnologias e vivo em constante aprendizado. Me considero um facilitador, pois estou sempre empenhado em colocar em práticas meus conhecimento afim de melhorar os processos na vida das pessoas.
+
+**Deu problema aí? Eu resolvo.**
+
 Atualmente estou muito animado com o universo de facilidades do [NodeJs](https://nodejs.org).<br/><br/>
 <hr>
 
