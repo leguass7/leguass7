@@ -56,6 +56,8 @@ SQL          14 mins         ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<hr>
+
 ### Projeto de treinamento de estagiários
 - 👯 Está procurando estágio? Fale comigo.
 [Úlimas atividades](./estagiarios.md)
