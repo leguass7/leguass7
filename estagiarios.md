@@ -10,9 +10,9 @@ Professor/Coordenador: **Davidson Alves**
 
 Link para o registro de horas estagiadas: [davidsonalves](https://davidsonalves.github.io/hestagiadas.html)
 
-Período: de ___ a ___, totalizando __ horas.
+Período: **120 horas**
 
-## Resumo das atividades
+## Resumo de atividades intensivas
 
 ### Ambiente de desenvolvimento
 - [x] Configuração de variáveis de ambiente e `.env`
