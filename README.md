@@ -48,11 +48,11 @@ Atualmente estou muito animado com o universo de facilidades do [NodeJs](https:/
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   46 hrs 27 mins  ███████████████████████▓░   94.35 % 
-JavaScript   1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Java         18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+TypeScript   41 hrs 5 mins   ███████████████████████▒░   93.90 % 
+JavaScript   1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+JSON         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Java         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other        15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
