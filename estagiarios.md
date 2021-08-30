@@ -18,16 +18,16 @@ Período: **120 horas**
 - [x] Configuração de variáveis de ambiente e `.env`
 - [x] Instalação e configuração de softwares e ferramentas de ambiente de desenvolvimento
   - [x] [NodeJs](https://nodejs.org/)
-- [x] Visual Studio Code [VSCode](https://code.visualstudio.com)
+  - [x] Visual Studio Code [VSCode](https://code.visualstudio.com)
   - [x] Elaboração de `snippets` personalizados
   - [x] Instalação e configuração de extensões
-- [x] Configuração e *padronização de código* utilizando `eslint` e `prettier`
+  - [x] Configuração e *padronização de código* utilizando `eslint` e `prettier`
   - [x] Personalização. Criar e modificar regras para a padronização de código
-- [x] Configuração de ferramenta para controle de versão de código com `git`/`git flow`
-- [x] Instalação, configuração e utilização do `docker` e `docker-compose` [Docker](https://www.docker.com/)
-  - [x] Criação de containers
-  - [x] Configuração de volumes
-  - [x] Download e utilização de imagens do [Docker Hub](https://hub.docker.com/)
+  - [x] Configuração de ferramenta para controle de versão de código com `git`/`git flow`
+  - [x] Instalação, configuração e utilização do `docker` e `docker-compose` [Docker](https://www.docker.com/)
+    - [x] Criação de containers
+    - [x] Configuração de volumes
+    - [x] Download e utilização de imagens do [Docker Hub](https://hub.docker.com/)
 - [x] Gerenciador de pacotes `yarn` e `npm`
   - [x] Inciar e configurar novo projeto
   - [x] Atualização e manutenção de dependencias
@@ -69,7 +69,10 @@ Período: **120 horas**
   - [x] Personalização de métodos da ORM
   - [x] Construir estrutura de relacionamentos entre tabelas
 - [x] Elaboração de biblioteca personalizada para acesso a dados
-- [ ] ...
+- [ ] [NestJs](https://nestjs.com/)
+  - [ ] Estrutura escalável por funcionalidades
+  - [ ] Acesso a dados com [TypeORM](https://typeorm.io/) e [Prisma](https://www.prisma.io/)
+  - [ ] ...
   
 
 ### Frontend
@@ -96,6 +99,13 @@ Período: **120 horas**
 - [ ] Aplicação de conceitos de SEO
   - [ ] Dados estruturados [Schema.org](https://schema.org/) em projetos React
 - [ ] Implementar disparo de conversões em campanhas do [Google Ads](https://ads.google.com/)
-- [ ] ...
+- [ ] [React Native](https://reactnative.dev/)
+  - [ ] Armazenamento local
+    - [ ] Storage
+    - [ ] Banco de dados local
+  - [ ] Componentização
+    - [ ] Estilização de componentes `react-native` e `styled-components/native`
+    - [ ] Migrar componentes `react` para `react-native` (vice-versa)
+  - [ ] ...
 
 
