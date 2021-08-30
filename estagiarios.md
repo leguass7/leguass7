@@ -100,6 +100,9 @@ Período: **120 horas**
   - [ ] Dados estruturados [Schema.org](https://schema.org/) em projetos React
 - [ ] Implementar disparo de conversões em campanhas do [Google Ads](https://ads.google.com/)
 - [ ] [React Native](https://reactnative.dev/)
+  - [ ] Gerenciamento de rotas/stacks
+    - [ ] Implementação do [React Navigation](https://reactnavigation.org/)
+    - [ ] Fluxo de autenticação (token/refreshToken)
   - [ ] Armazenamento local
     - [ ] Storage
     - [ ] Banco de dados local
