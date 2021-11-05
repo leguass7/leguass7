@@ -5,7 +5,7 @@
 
 Desenvolvedor na **Avatar Soluções Digitais**.<br/>
 
-Sou apaixonado por novas tecnologias e vivo em constante aprendizado. Me considero um facilitador, sou autodidata e estou sempre empenhado em colocar em práticas meus conhecimento a fim de impactar de forma positiva a vida das pessoas.
+Sou apaixonado por novas tecnologias e vivo em constante aprendizado. Me considero um facilitador, sou autodidata e estou sempre empenhado em colocar em práticas meus conhecimentos a fim de impactar de forma positiva a vida das pessoas.
 
 **Deu problema aí? Eu resolvo.**
 
