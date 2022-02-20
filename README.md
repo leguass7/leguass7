@@ -30,7 +30,7 @@ Atualmente estou muito animado com o universo de facilidades do [NodeJs](https:/
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=MySQL&message=high&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=PostgreSQL&message=medium&logo=PostgreSQL)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=b99e55&label=Firebase&message=low&logo=Firebase)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=339933&label=Redis&message=high&logo=Redis)
 
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=Python&message=medium&logo=Python)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=83ab91&label=C++&message=medium&logo=C++)
