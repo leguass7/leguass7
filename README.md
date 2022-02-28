@@ -47,13 +47,16 @@ Atualmente estou muito animado com o universo de facilidades do [NodeJs](https:/
 ![iOS](https://img.shields.io/static/v1?style=for-the-badge&show_icons=true&color=f75050&label=iOS&message=--&logo=iOS)
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   53 hrs 38 mins  ████████████████████░░░░░   80.02 % 
-YAML         4 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Markdown     2 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-JSON         2 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-JavaScript   1 hr 49 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+TypeScript   48 hrs 21 mins  ████████████████████▓░░░░   82.25 %
+YAML         2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Markdown     2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+JSON         2 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+JavaScript   1 hr 50 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Bash         52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
+
 <!--END_SECTION:waka-->
 
 <hr>
