@@ -2,6 +2,7 @@
 
 ### Olá, seja bem vindo 👋
 <img src="https://img.shields.io/static/v1?label=Overview&message=Leandro&color=f8efd4&style=for-the-badge&logo=GitHub"> <img src="https://img.shields.io/static/v1?label=Fullstack&message=DEV&color=31ac59&style=for-the-badge">
+
 ![](https://komarev.com/ghpvc/?username=leguass7&color=7f5943)
 
 Desenvolvedor na **Avatar Soluções Digitais**.<br/>
