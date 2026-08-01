@@ -51,11 +51,11 @@ Atualmente estou muito animado com o universo de facilidades do [NodeJs](https:/
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     9 hrs 41 mins         ████████░░░░░░░░░░░░░░░░░   31.83 %
-TypeScript   8 hrs 24 mins         ███████░░░░░░░░░░░░░░░░░░   27.63 %
-JSON         2 hrs 51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Text         2 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Python       2 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Markdown      10 hrs 31 mins        ████████▓░░░░░░░░░░░░░░░░   34.68 %
+TypeScript    7 hrs                 █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
+JSON          2 hrs 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Text          2 hrs 8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Python        2 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
 ```
 
 <!--END_SECTION:waka-->
