@@ -51,11 +51,7 @@ Atualmente estou muito animado com o universo de facilidades do [NodeJs](https:/
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   31 mins               ████████▒░░░░░░░░░░░░░░░░   33.11 %
-YAML       26 mins               ███████░░░░░░░░░░░░░░░░░░   27.76 %
-Bash       17 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
-Text       9 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-SQL        5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
